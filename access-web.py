@@ -31,6 +31,7 @@ URLS = [
     "https://clikdin.com/",
     "https://clikdin.com/2025/03/08/sistemas-off-grid-com-energia-renovavel-mitos-e-verdades-sobre-sustentabilidade/",
     "https://clikdin.com/2025/03/08/desafios-e-solucoes-na-implementacao-de-sistemas-off-grid-sustentaveis-na-america-latina/",
+    "https://clikdin.com/2025/03/19/sustentabilidade-na-educacao-o-papel-da-energia-solar-para-escolas-isoladas/",
     "https://clikdin.com/2025/03/08/resiliencia-energetica-como-sistemas-off-grid-ajudam-a-enfrentar-mudancas-climaticas/",
     "https://clikdin.com/2025/03/08/energia-solar-portatil-para-acampamentos-como-reduzir-seu-impacto-ambiental-na-natureza/",
     "https://clikdin.com/2025/03/08/solucoes-off-grid-e-economia-circular-reduzindo-residuos-e-promovendo-sustentabilidade/",
